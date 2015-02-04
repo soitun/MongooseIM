@@ -14,7 +14,8 @@
 * Operation and maintenance
     * [Cluster configuration and node management](operation-and-maintenance/Cluster-configuration-and-node-management.md)
     * [Reloading configuration on a running system](operation-and-maintenance/Reloading-configuration-on-a-running-system.md)
-* Misc
-    * [Hooks and handler](misc/Hooks-and-handlers.md)
-    * [Folsom Metrics](misc/REST-interface-to-folsom-metrics.md)
+* For developers
+    * [Hooks and handlers](developers-guide/Hooks-and-handlers.md)
+    * [Folsom Metrics](developers-guide/REST-interface-to-folsom-metrics.md)
+    * [mod_amp developer's guide](developers-guide/mod_amp_developers_guide.md)
    
